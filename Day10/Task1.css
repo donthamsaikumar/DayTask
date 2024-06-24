@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(70, 130, 213);
+
+}
+ul{
+    color: rgb(95, 160, 109);
+}
+h1{
+    color: deepskyblue;
+}
+h2{
+    background-color: aqua;
+    
+}
+b{
+    color: burlywood;
+}
+#h1{
+    background-color: black;
+}
+/* id selector */
+h1,h2{
+    background-color: black;
+}
+/* grouping selector */
+
+/* *{
+    background-color: rgb(141, 151, 151);
+} */
+/* universal selector */
